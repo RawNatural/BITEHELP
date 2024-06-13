@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<orders><order><delivery><first_name>Nathan</first_name><email>rawirinathan1@gmail.com</email><address/><city>Brisbane City</city><postcode/></delivery><items><item><title>BITEHELP</title><quantity>1</quantity><total_cost>62.97</total_cost></item></items></order><order><delivery><first_name>Nathan</first_name><email>rawirinathan1@gmail.com</email><address/><city>Brisbane City</city><postcode/></delivery><items><item><title>BITEHELP</title><quantity>1</quantity><total_cost>20.99</total_cost></item></items></order></orders>
